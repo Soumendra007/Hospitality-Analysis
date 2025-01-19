@@ -1,8 +1,8 @@
 # Hospitality-Analysis
 
-## Live Dashboard: https://www.novypro.com/project/atliq-hospitality--1
-## novypro portfolio:https://www.novypro.com/profile_projects/yatinlokhande
-## Codebasics Portfolio: https://codebasics.io/portfolio/Yatin-Govinda-Lokhande
+## Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzVmMmI1NWYtYjIyZi00OGQ1LTkzNzktMDZkOTU5MGE3MGIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+## novypro portfolio:
+## Codebasics Portfolio: 
 ## Project Overview
 AtliQ Grands is a well-established hospitality company that owns multiple five-star hotels across India. The company has been in the industry for the past 20 years and is known for its luxury and business hotels.
 
