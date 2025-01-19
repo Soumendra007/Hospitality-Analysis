@@ -101,4 +101,4 @@ As, there are 26 measures. To check the detail of all measures visit metrics_lis
 
 *•* Elite type rooms has the most booking and as well higher cancellation rate.
 ## 🔗 Links
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/soumendramishra/) [![My Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit-orange?logo=google-chrome)](https://yourportfolio.com)
