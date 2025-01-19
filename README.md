@@ -66,9 +66,12 @@ The column names are not captured here. We need to select "Use First Row as Head
 
 Calculated Column
 
-Our first Calculated column is to get number from week_no column of dim_date into week_number and the formula is : week_number = WEEKNUM(dim_date[date])
+Our first Calculated column is to get number from week_no column of dim_date into week_number and the formula is : week num = WEEKNUM(dim_date[date])
 
-Our Second Calculated column to get day_type from dim_date table. So, as we know in hospitality domain weekdays are Sunday to Thursday and weekends are Friday and Saturday. So, the formula to get day_type is : day_type = var wkd = WEEKDAY(dim_date[date]) return if(wkd>5,"Weekend","Weekday")
+Our Second Calculated column to get day_type from dim_date table. So, as we know in hospitality domain weekdays are Sunday to Thursday and weekends are Friday and Saturday. So, the formula to get day_type is : day type = 
+VAR wke = WEEKDAY(dim_date[date])
+RETURN
+IF(wke>5,"Weekend","Weekday")
 
 **MEASURES**
 
