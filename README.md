@@ -2,7 +2,7 @@
 
 ## Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYzVmMmI1NWYtYjIyZi00OGQ1LTkzNzktMDZkOTU5MGE3MGIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## novypro portfolio:
-## Codebasics Portfolio: 
+## Codebasics Portfolio: https://prod4.codebasics.io/portfolio/Soumendra-Mishra
 ## Project Overview
 AtliQ Grands is a well-established hospitality company that owns multiple five-star hotels across India. The company has been in the industry for the past 20 years and is known for its luxury and business hotels.
 
